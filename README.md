@@ -9,6 +9,14 @@
 
 ---
 
+# 📹 Demo Video (5 minutes)
+**Google Drive Link:** ( https://drive.google.com/drive/folders/1gwfkx_i0bL2WvbnUKus_esolI--eOBEO?usp=sharing )
+
+Click the link above to watch the complete demonstration of the application.The video demonstrates the live app, forecast generation, weather override, SHAP explainability, and data export features.
+
+
+---
+
 ## 👥 Team
 
 | Name | Role |
