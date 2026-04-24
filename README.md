@@ -59,7 +59,8 @@ VayuSurya-AI/
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
 ├── architecture_diagram.jpeg # System architecture
-└── VAYUSURYA AI (PPT).pdf    # Presentation slides
+├── VAYUSURYA AI (PPT).pdf    # Presentation slides
+└──The-Core-Python-Stack.docx # Complete Expained Documentation
 ```
 
 ---
