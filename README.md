@@ -60,7 +60,6 @@ VayuSurya-AI/
 ├── README.md                 # This file
 ├── architecture_diagram.jpeg # System architecture
 ├── VAYUSURYA AI (PPT).pdf    # Presentation slides
-└──The-Core-Python-Stack.docx # Complete Expained Documentation
 ```
 
 ---
